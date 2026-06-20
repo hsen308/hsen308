@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">hsen - Build, Automate, Grow</title>
+  <desc id="desc">Editorial charcoal banner with orange network geometry representing product engineering, automation, and mathematics.</desc>
+  <rect width="1280" height="360" rx="28" fill="#11110f"/>
+  <g opacity=".23" stroke="#f1ede4" stroke-width="1">
+    <path d="M0 72H1280M0 144H1280M0 216H1280M0 288H1280"/>
+    <path d="M128 0V360M256 0V360M384 0V360M512 0V360M640 0V360M768 0V360M896 0V360M1024 0V360M1152 0V360"/>
+  </g>
+  <g fill="none" stroke="#ff6433" stroke-width="3">
+    <path d="M838 250L934 122l102 72 112-116"/>
+    <circle cx="838" cy="250" r="8" fill="#ff6433"/>
+    <circle cx="934" cy="122" r="8" fill="#11110f"/>
+    <circle cx="1036" cy="194" r="8" fill="#ff6433"/>
+    <circle cx="1148" cy="78" r="8" fill="#11110f"/>
+  </g>
+  <text x="72" y="150" fill="#f1ede4" font-family="Georgia, serif" font-size="92" font-weight="700">hsen</text>
+  <text x="77" y="208" fill="#ff6433" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="7">BUILD · AUTOMATE · GROW</text>
+  <text x="77" y="278" fill="#bdb7ab" font-family="Arial, sans-serif" font-size="17" letter-spacing="2">PRODUCTS / SYSTEMS / GROWTH</text>
+</svg>
