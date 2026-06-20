@@ -29,31 +29,31 @@ Client delivery, Meta campaigns, sales systems, ongoing maintenance
 
 ### [Novu V2](https://novustudios.com)
 
-[![Novu V2 website preview](assets/projects/novu-v2.webp)](https://novustudios.com)
+[![Novu V2 website preview](assets/projects/novu-v2.png)](https://novustudios.com)
 
 Main studio website for positioning, project discovery, and client acquisition.
 
 ### [Book A Coffee](https://bookacoffee.com)
 
-[![Book A Coffee website preview](assets/projects/book-a-coffee.webp)](https://bookacoffee.com)
+[![Book A Coffee website preview](assets/projects/bookacoffee.png)](https://bookacoffee.com)
 
 Production website for a multi-branch bookshop café in Broumana and Batroun.
 
 ### [Brew & Butter](https://github.com/hsen308/brew-and-butter)
 
-[![Brew and Butter website preview](assets/projects/brew-and-butter.webp)](https://brew-and-butter.vercel.app)
+[![Brew and Butter website preview](assets/projects/brew-and-butter.png)](https://brew-and-butter.vercel.app)
 
 Multi-location café website with ordering paths, local-business data, and responsive UX.
 
 ### [CAPO Production](https://github.com/hsen308/capo)
 
-[![CAPO Production website preview](assets/projects/capo.webp)](https://capo-dun.vercel.app)
+[![CAPO Production website preview](assets/projects/capo.png)](https://capo-dun.vercel.app)
 
 Editorial photography and film portfolio with responsive layouts and light/dark themes.
 
 ### [Bana Café](https://github.com/hsen308/bana-cafe)
 
-[![Bana Café website preview](assets/projects/bana-cafe.webp)](https://bana-cafe.vercel.app)
+[![Bana Café website preview](assets/projects/bana-cafe.png)](https://bana-cafe.vercel.app)
 
 Interactive café concept combining visual identity, motion, and responsive implementation.
 
